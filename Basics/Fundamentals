@@ -1,0 +1,22 @@
+### Python Basics - Jupyter Notebooks
+
+# 1. Introduction
+print("Welcome to Python Basics!")
+print("Python is an interpreted, high-level programming language.")
+
+# 2. Variables
+x = 10
+name = "Python"
+print("Variable x:", x)
+print("Variable name:", name)
+
+# 3. Data Types
+integer_var = 42
+float_var = 3.14
+string_var = "Hello, Python!"
+boolean_var = True
+
+print("Integer:", integer_var)
+print("Float:", float_var)
+print("String:", string_var)
+print("Boolean:", boolean_var)
